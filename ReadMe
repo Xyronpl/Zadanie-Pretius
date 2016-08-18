@@ -1,0 +1,7 @@
+Przyklad uruchomienia w eclipse:
+1. W celu uruchomienia programu prosze zaimportowac projekt;
+2. Nacisnac na zielona strzalke "play"
+3. Nastepnie kliknac run configurations
+4. W zakladce arguments podac w cudzyslowiu sciezke do pliku np "Plik z danymi.txt" jesli znajduje sie on w katalogu projektu
+5. kliknac apply i zamknac okno.
+6 kliknac zielona strzalke "play"
